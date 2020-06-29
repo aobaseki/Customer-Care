@@ -1,0 +1,11 @@
+.App {
+    text-align: center;
+    flex-grow: 1;
+    margin-top: 70px;
+  }
+.title {
+    font-size: 7;
+}
+.money {
+    font-size: 12;
+}

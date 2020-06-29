@@ -1,0 +1,20 @@
+{
+  "entities": [
+    {
+      "table": "companies",
+      "entity": "SuppliersCompany",
+      "name": "Company",
+      "fields": ["name" , "contact" , "email" , "isTemporary" , "createdBy"],
+      "nameFields": ["name"],
+      "contact": ""
+    },
+    {
+      "table": "customers",
+      "entity": "Customer",
+      "name": "Customer",
+      "fields": ["firstName", "otherNames" , "phone" , "location" , "email"],
+      "nameFields": ["firstName", "otherNames"],
+      "contact": "phone"
+    }
+  ]
+}

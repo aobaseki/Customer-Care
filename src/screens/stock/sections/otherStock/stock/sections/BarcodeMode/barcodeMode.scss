@@ -1,0 +1,41 @@
+.video_canvas {
+    margin: 0 10%;
+    border: 0.25em solid;
+    position: relative;
+}
+.video_canvas::before, .video_canvas::after {
+    content: "";
+    display: block;
+    position: absolute;
+    background: #fff !important;
+}
+
+.bCode{
+    .MuiBox-root{
+        padding: 0rem !important;
+        border-radius: 0rem !important;
+    }
+
+    .newBox {
+        .MuiBox-root{
+            border-radius: 60px 60px 0px 0 !important;
+        }
+    }
+}
+
+.video_canvas::before {
+    top: -0.3em;
+    bottom: -0.3em;
+    left: 1em;
+    right: 1em;
+}
+.video_canvas::after {
+    left: -0.3em;
+    right: -0.3em;
+    top: 1em;
+    bottom: 1em;
+}
+.video_canvas #video {
+    position: relative;
+    z-index: 1;
+}

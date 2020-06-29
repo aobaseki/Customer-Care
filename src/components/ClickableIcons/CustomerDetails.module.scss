@@ -1,0 +1,39 @@
+.block {
+  text-align: center;
+}
+
+.block:before {
+  content: '\200B';
+  /*   content: '';
+    margin-left: -0.25em; */
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.centered {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.roundDiv {
+  border: 2px solid #daab59 !important;
+  border-radius: 50% !important;
+  height: 30px !important;
+  width: 95% !important;
+  padding: 2px !important;
+  color: #daab59 !important;
+}
+
+.btnLabel {
+  color: #daab59;
+  font-size: 0.6rem !important;
+  font-weight:  500;
+}
+
+.deleteLabel {
+  color: #daab59;
+  font-size: 0.6rem !important;
+  font-weight:  500;
+  margin-right: -26px !important;
+}

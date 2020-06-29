@@ -1,0 +1,11 @@
+{
+  "elp-core-api" : {
+    "development": {
+      "v1": {
+        "basePath" : "core-api-dev.mystoreaid.net",
+        "protocol" : "https",
+        "prefix" : "client"
+      }
+    }
+  }
+}

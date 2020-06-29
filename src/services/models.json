@@ -1,0 +1,9 @@
+{
+  "product": {
+    "model": "Product",
+    "primaryKeyName": "id"
+  },
+  "customers": {
+    "model"
+  }
+}

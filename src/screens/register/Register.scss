@@ -1,0 +1,12 @@
+.MuiOutlinedInput-root .Mui-focused {
+  .MuiOutlinedInput-notchedOutline {
+    border-color: #daab59 !important;
+  }
+}
+.Mui-focused .MuiOutlinedInput-notchedOutline{
+  border-color: #daab59 !important;
+}
+
+.MuiPaper-elevation1 {
+  box-shadow: 0 0.2rem 1rem rgba(0, 0, 0, 0.07) !important;
+}

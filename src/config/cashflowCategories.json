@@ -1,0 +1,89 @@
+{
+  "categories": [
+    {
+      "name" : "Sales",
+      "type" : "cash-in",
+      "status" : "active"
+    },
+    {
+      "name" : "Loan",
+      "type" : "cash-in",
+      "status" : "active"
+    },
+    {
+      "name" : "Owner",
+      "type" : "cash-in",
+      "status" : "active"
+    },
+    {
+      "name" : "Offloading fee",
+      "type" : "cash-out",
+      "status" : "active"
+    },
+    {
+      "name" : "Food",
+      "type" : "cash-out",
+      "status" : "active"
+    },
+    {
+      "name" : "Transport",
+      "type" : "cash-out",
+      "status" : "active"
+    },
+    {
+      "name" : "Cleaning services",
+      "type" : "cash-out",
+      "status" : "active"
+    },
+    {
+      "name" : "Software expenses",
+      "type" : "cash-out",
+      "status" : "active"
+    },
+    {
+      "name" : "Salary",
+      "type" : "cash-out",
+      "status" : "active"
+    },
+    {
+      "name" : "Electricity",
+      "type" : "cash-out",
+      "status" : "active"
+    },
+    {
+      "name" : "Water",
+      "type" : "cash-out",
+      "status" : "active"
+    },
+    {
+      "name" : "Local Authority",
+      "type" : "cash-out",
+      "status" : "active"
+    },
+    {
+      "name" : "Business Operation Fee",
+      "type" : "cash-out",
+      "status" : "active"
+    },
+    {
+      "name" : "Fuel",
+      "type" : "cash-out",
+      "status" : "active"
+    },
+    {
+      "name" : "Rent",
+      "type" : "cash-out",
+      "status" : "active"
+    },
+    {
+      "name" : "Gift",
+      "type" : "cash-out",
+      "status" : "active"
+    },
+    {
+      "name" : "Susu/Savings",
+      "type" : "cash-out",
+      "status" : "active"
+    }
+  ]
+}

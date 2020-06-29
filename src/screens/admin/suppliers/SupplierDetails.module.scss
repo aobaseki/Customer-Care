@@ -1,0 +1,32 @@
+.block {
+  text-align: center;
+}
+
+.block:before {
+  content: '\200B';
+  /*   content: '';
+    margin-left: -0.25em; */
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.centered {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.roundDiv {
+  border: 2px solid #daab59 !important;
+  border-radius: 50% !important;
+  height: 50px !important;
+  width: 55% !important;
+  padding: 6px !important;
+  color: #daab59 !important;
+}
+
+.btnLabel {
+  color: #daab59;
+  font-size: 1rem;
+  font-weight:  500;
+}
